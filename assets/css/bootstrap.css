@@ -83,6 +83,15 @@ p {
   margin-bottom: 1rem;
 }
 
+fixed-sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  overflow-y: auto;
+}
+
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
