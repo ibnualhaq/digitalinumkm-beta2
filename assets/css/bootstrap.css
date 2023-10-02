@@ -83,7 +83,7 @@ p {
   margin-bottom: 1rem;
 }
 
-fixed-sidebar {
+#fixed-sidebar {
   position: fixed;
   top: 0;
   right: 0;
